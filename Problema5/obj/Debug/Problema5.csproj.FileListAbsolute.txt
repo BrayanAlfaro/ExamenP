@@ -1,0 +1,6 @@
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema5\bin\Debug\Problema5.exe.config
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema5\bin\Debug\Problema5.exe
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema5\bin\Debug\Problema5.pdb
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema5\obj\Debug\Problema5.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema5\obj\Debug\Problema5.exe
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema5\obj\Debug\Problema5.pdb

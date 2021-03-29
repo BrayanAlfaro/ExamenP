@@ -1,0 +1,6 @@
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema3\bin\Debug\Problema3.exe.config
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema3\bin\Debug\Problema3.exe
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema3\bin\Debug\Problema3.pdb
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema3\obj\Debug\Problema3.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema3\obj\Debug\Problema3.exe
+C:\Users\ALIEN 14\Documents\Brayan Alfaro Peña\ExamenParadox\Problema3\obj\Debug\Problema3.pdb
